@@ -17,7 +17,9 @@
   "dependencies": {
     "@strapi/plugin-cloud": "5.15.0",
     "@strapi/plugin-users-permissions": "5.15.0",
+    "@strapi/provider-upload-cloudinary": "^5.15.1",
     "@strapi/strapi": "5.15.0",
+    "cloudinary": "^2.6.1",
     "mysql2": "3.9.8",
     "pg": "^8.16.0",
     "pg-connection-string": "^2.9.0",
